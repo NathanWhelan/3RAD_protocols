@@ -227,7 +227,8 @@ Per Tube Total: 50 µL
 ### 8. Size selection
 1. Size select DNA using BluePippin
     -Follow BluePippen instructions.
-    -Be sure to use 200µL pipette tip, not 300µL when pipetting off buffer from cassette. 
+    -Be sure to use 200µL pipette tip, not 300µL when pipetting off buffer from cassette.
+    -Whelan lab almost always uses size selection range of 472-578 bp. (i.e., 525bp +/- 10%)
 
 *Note: blue pippen cassettes can be stored for re-use of unused lanes*
 
